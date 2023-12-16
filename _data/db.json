@@ -1,0 +1,15 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "date": {
+                "day": "15",
+                "month": "Dec"
+            },
+            "location": {
+                "city": "Kharkov",
+                "country": "Ukraine"
+            }
+        }
+    ]
+}
